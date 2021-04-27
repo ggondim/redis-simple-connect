@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/ggondim/redis-simple-connect#readme",
   "dependencies": {
-    "redis": "^2.8.0"
+    "redis": "^3.1.1"
   }
 }
